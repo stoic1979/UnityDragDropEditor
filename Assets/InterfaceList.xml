@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <capsule>
+    <name>Capsule(Clone)</name>
+    <position>
+      <x>5.30572</x>
+      <y>1</y>
+      <z>-0.8950653</z>
+    </position>
+    <scale>
+      <x>1</x>
+      <y>1</y>
+      <z>1</z>
+    </scale>
+    <tag>capsule</tag>
+  </capsule>
+</Data>
